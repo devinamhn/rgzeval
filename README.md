@@ -4,18 +4,14 @@
 
 ### 1. Clone the repository
     
-    ```
-    git clone https://github.com/devinamhn/rgzeval.git 
-    ```
+    ``` git clone https://github.com/devinamhn/rgzeval.git ```
 
 ### 2. Download files and data folder from OneDrive to your local project folder.
 
 ### 3. Install Requirements
     Make and activate a new python virtual environment. Install the required dependencies using pip:
 
-    ```
-    pip install -r requirements.txt
-    ```
+    ```  pip install -r requirements.txt ```
 
 ### 4. Explore notebooks
     
