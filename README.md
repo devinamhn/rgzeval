@@ -21,5 +21,5 @@ Makes sure jupyter notebooks can access the virtual environment. There are two n
 
 ### 5. rgz_features_train_ft.parquet
     
-    Main file which contains the features learned by BYOL along with associated metadata.
+Main file which contains the features learned by BYOL along with associated metadata.
 
